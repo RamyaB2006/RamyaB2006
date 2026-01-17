@@ -72,7 +72,7 @@ I’m a passionate engineering student focused on building **secure, scalable, a
 **Tech:** Python, Skyfield, Pandas, Streamlit, Plotly  
 - Simulated satellite orbits
 - Detected close debris approaches using orbital data
-
+🔗 [View Project](https://github.com/RamyaB2006/space_debris_project)
 ---
 
 ## 📜 Certifications
