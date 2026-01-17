@@ -1,16 +1,112 @@
-## Hi there 👋
+# Hi 👋 I'm Ramya B
 
-<!--
-**RamyaB2006/RamyaB2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.E. Computer Science Engineering Student**  
+💻 **Aspiring Software Developer | Full Stack | AI | Cybersecurity**  
 
-Here are some ideas to get you started:
+I’m a passionate engineering student focused on building **secure, scalable, and impactful software solutions** using modern web technologies, AI/ML, and cybersecurity concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 About Me
+- 🎓 Studying **B.E. CSE** at **R.M.K. Engineering College, Chennai**
+- 📊 CGPA: **8.35**
+- 💡 Interested in **Full Stack Development, AI, and Cybersecurity**
+- 🚀 Love turning ideas into real-world applications
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- Python
+- C++
+- JavaScript
+- SQL
+
+### 🌐 Web Development
+- HTML, CSS
+- REST APIs
+- React, Node.js, Express
+
+### 🤖 AI / ML
+- Scikit-Learn
+- Convolutional Neural Networks (CNN)
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Wireshark
+- VMware
+
+### 🗄️ Databases
+- MySQL
+- SQLite
+- MongoDB
+
+---
+
+## 💼 Internship Experience
+
+### 🔹 Full Stack Web Developer Intern  
+**Plant Green Inertia Pvt. Ltd** | *Jun 2025 – Jul 2025*
+- Developed a **mini e-commerce website**
+- Implemented **cart management using localStorage**
+- Worked with HTML, CSS, and JavaScript
+
+### 🔹 DSA Intern  
+**SKOLAR** | *Jul 2024 – Oct 2024*
+- Built **sorting visualizers**
+- Optimized **search algorithms**
+- Strengthened problem-solving and logical thinking
+
+---
+
+## 🚀 Featured Projects
+
+### 🏗️ RoadNBrick – Contractor & Supplier Platform  
+**Tech:** React, Node.js, Express, MongoDB, JWT  
+- Full-stack platform connecting contractors with nearby suppliers  
+- Secure authentication and scalable backend  
+🔗 [View Project](https://github.com/RamyaB2006/roadnbrick)
+
+---
+
+### 🔐 SecureFile Vault – AES Encryption System  
+**Tech:** Flask, Python, Cryptography, SQLite  
+- Secure file encryption & decryption using **AES-256-GCM**  
+- Focused on data privacy and security  
+🔗 [View Project](https://github.com/RamyaB2006/SecureFileVault)
+
+---
+
+### 🎓 Learnavia – Role-Based Activity Management System  
+**Tech:** React, Node.js, Express, SQLite, JWT  
+- Student achievement tracking with **role-based access**
+- Analytics and gamification features  
+🔗 [View Project](https://github.com/RamyaB2006/Leanavia)
+
+---
+
+### 🛰️ Space Debris Collision Prediction System  
+**Tech:** Python, Skyfield, Pandas, Streamlit, Plotly  
+- Simulated satellite orbits
+- Detected close debris approaches using orbital data
+
+---
+
+## 📜 Certifications
+- **Infosys Springboard:** C, C++, DBMS  
+- **Cisco Networking Academy:** Introduction to Cybersecurity  
+- **Oracle:** Generative AI  
+- **EC-Council:** Ethical Hacking Essentials  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **ramya2006.work@gmail.com**
+- 🔗 LinkedIn: [Ramya B](https://www.linkedin.com/in/ramya-b-1180603a4)
+- 💻 GitHub: [RamyaB2006](https://github.com/RamyaB2006)
+
+---
+
+✨ *Always eager to learn, build, and collaborate on meaningful tech projects.*
