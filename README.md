@@ -17,33 +17,14 @@ I’m a passionate engineering student focused on building **secure, scalable, a
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-- Python
-- C++
-- JavaScript
-- SQL
+| Category | Skills |
+|--------|--------|
+| 💻 Languages | Python, C++, JavaScript, SQL |
+| 🌐 Web | HTML, CSS, REST APIs, React, Node.js, Express |
+| 🤖 AI / ML | Scikit-Learn, CNN |
+| 🗄️ Databases | MySQL, SQLite, MongoDB |
+| 🧰 Tools | Git, GitHub, VS Code, Wireshark, VMware |
 
-### 🌐 Web Development
-- HTML, CSS
-- REST APIs
-- React, Node.js, Express
-
-### 🤖 AI / ML
-- Scikit-Learn
-- Convolutional Neural Networks (CNN)
-
-### 🧰 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Wireshark
-- VMware
-
-### 🗄️ Databases
-- MySQL
-- SQLite
-- MongoDB
-
----
 
 ## 💼 Internship Experience
 
