@@ -50,30 +50,22 @@ I’m a passionate engineering student focused on building **secure, scalable, a
 - Secure authentication and scalable backend  
 🔗 [View Project](https://github.com/RamyaB2006/roadnbrick)
 
----
-
 ### 🔐 SecureFile Vault – AES Encryption System  
 **Tech:** Flask, Python, Cryptography, SQLite  
 - Secure file encryption & decryption using **AES-256-GCM**  
 - Focused on data privacy and security  
 🔗 [View Project](https://github.com/RamyaB2006/SecureFileVault)
 
----
-
 ### 🎓 Learnavia – Role-Based Activity Management System  
 **Tech:** React, Node.js, Express, SQLite, JWT  
-- Student achievement tracking with **role-based access**
+- Student achievement tracking with **role-based access**  
 - Analytics and gamification features  
 🔗 [View Project](https://github.com/RamyaB2006/Leanavia)
 
----
-
 ### 🛰️ Space Debris Collision Prediction System  
 **Tech:** Python, Skyfield, Pandas, Streamlit, Plotly  
-- Simulated satellite orbits
-- Detected close debris approaches using orbital data
-  🔗 [View Project](https://github.com/RamyaB2006/space_debris_project)
----
+A simulation system that tracks satellite orbits and identifies potential collisions with space debris using real orbital data.  
+🔗 [View Project](https://github.com/RamyaB2006/space_debris_project)
 
 ## 📜 Certifications
 - **Infosys Springboard:** C, C++, DBMS  
