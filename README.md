@@ -59,13 +59,13 @@ I’m a passionate engineering student focused on building **secure, scalable, a
 ### 🎓 Learnavia – Role-Based Activity Management System  
 **Tech:** React, Node.js, Express, SQLite, JWT  
 - Student achievement tracking with **role-based access**  
-- Analytics and gamification features  
-🔗 [View Project](https://github.com/RamyaB2006/Leanavia)
+- Analytics and gamification features
+  🔗 [View Project](https://github.com/RamyaB2006/Leanavia)
 
 ### 🛰️ Space Debris Collision Prediction System  
 **Tech:** Python, Skyfield, Pandas, Streamlit, Plotly  
-A simulation system that tracks satellite orbits and identifies potential collisions with space debris using real orbital data.  
-🔗 [View Project](https://github.com/RamyaB2006/space_debris_project)
+- A simulation system that tracks satellite orbits and identifies potential collisions with space debris using real orbital data.
+  🔗 [View Project](https://github.com/RamyaB2006/space_debris_project)
 
 ## 📜 Certifications
 - **Infosys Springboard:** C, C++, DBMS  
