@@ -35,7 +35,7 @@ I’m a passionate engineering student focused on building **secure, scalable, a
 - Worked with HTML, CSS, and JavaScript
 
 ### 🔹 DSA Intern  
-**SKOLAR** | *Jul 2024 – Oct 2024*
+**Skolar Edutech Pvt. Ltd ** | *Jul 2024 – Oct 2024*
 - Built **sorting visualizers**
 - Optimized **search algorithms**
 - Strengthened problem-solving and logical thinking
