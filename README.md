@@ -9,7 +9,7 @@ I’m a passionate engineering student focused on building **secure, scalable, a
 
 ## 🔹 About Me
 - 🎓 Studying **B.E. CSE** at **R.M.K. Engineering College, Chennai**
-- 📊 CGPA: **8.35**
+- 📊 CGPA: **8.31**
 - 💡 Interested in **Full Stack Development, AI, and Cybersecurity**
 - 🚀 Love turning ideas into real-world applications
 
