@@ -1,16 +1,16 @@
 # Hi 👋 I'm Ramya B
 
 🎓 **B.E. Computer Science Engineering Student (AI Honors)**  
-💻 **Aspiring Software Developer | AI | Intelligent Systems | Web Development**
+💻 **Aspiring Software Developer | AI | Cybersecurity | Intelligent Systems | Web Development**
 
-I’m a passionate engineering student interested in building secure, scalable, and user-centric software solutions using modern technologies and intelligent systems.
+I’m a passionate engineering student interested in building secure, scalable, and user-centric software solutions using modern technologies, cybersecurity principles, and intelligent systems.
 
 ---
 
 ## 🔹 About Me
 - 🎓 Studying **B.E. Computer Science and Engineering** at **R.M.K. Engineering College, Chennai**
 - 📊 CGPA: **8.31**
-- 💡 Interested in **Artificial Intelligence, Intelligent Systems, Web Development, and Problem Solving**
+- 💡 Interested in **Artificial Intelligence, Cybersecurity, Intelligent Systems, Web Development, and Problem Solving**
 - 🚀 Passionate about learning new technologies and building real-world applications
 
 ---
@@ -23,7 +23,7 @@ I’m a passionate engineering student interested in building secure, scalable, 
 | 🌐 Web Technologies | HTML5, CSS3 |
 | 🗄️ Databases | SQLite, MongoDB |
 | 🧰 Tools & Platforms | Git, GitHub |
-| 🤖 Areas of Interest | Artificial Intelligence, Intelligent Systems, Web Development |
+| 🔐 Areas of Interest | Artificial Intelligence, Cybersecurity, Intelligent Systems, Web Development |
 
 ---
 
@@ -48,7 +48,7 @@ I’m a passionate engineering student interested in building secure, scalable, 
 ### 🔐 Authlynx – AI-Powered Authentication System *(Current Project)*
 - Developing an intelligent authentication framework focused on secure and adaptive user verification
 - Implementing continuous trust evaluation and anomaly detection concepts
-- Aiming to improve user security and authentication reliability through intelligent systems
+- Integrating AI and cybersecurity principles to improve authentication reliability and user security
 
 ---
 
