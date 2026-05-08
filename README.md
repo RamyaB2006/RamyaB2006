@@ -1,7 +1,7 @@
 # Hi 👋 I'm Ramya B
 
 🎓 **B.E. Computer Science Engineering Student (AI Honors)**  
-💻 **Aspiring Software Developer | Web Development | AI | Intelligent Systems**
+💻 **Aspiring Software Developer | AI | Intelligent Systems | Web Development**
 
 I’m a passionate engineering student interested in building secure, scalable, and user-centric software solutions using modern technologies and intelligent systems.
 
@@ -10,7 +10,7 @@ I’m a passionate engineering student interested in building secure, scalable, 
 ## 🔹 About Me
 - 🎓 Studying **B.E. Computer Science and Engineering** at **R.M.K. Engineering College, Chennai**
 - 📊 CGPA: **8.31**
-- 💡 Interested in **Web Development, AI, Intelligent Systems, and Problem Solving**
+- 💡 Interested in **Artificial Intelligence, Intelligent Systems, Web Development, and Problem Solving**
 - 🚀 Passionate about learning new technologies and building real-world applications
 
 ---
@@ -19,7 +19,7 @@ I’m a passionate engineering student interested in building secure, scalable, 
 
 | Category | Skills |
 |--------|--------|
-| 💻 Languages | Python, Java, MySQL |
+| 💻 Programming Languages | Python, Java, MySQL |
 | 🌐 Web Technologies | HTML5, CSS3 |
 | 🗄️ Databases | SQLite, MongoDB |
 | 🧰 Tools & Platforms | Git, GitHub |
@@ -45,23 +45,30 @@ I’m a passionate engineering student interested in building secure, scalable, 
 
 ## 🚀 Featured Projects
 
-### 🎓 Learnavia – Role-Based Learning Platform  
-- Developed a learning platform with role-based access and activity tracking
+### 🔐 Authlynx – AI-Powered Authentication System *(Current Project)*
+- Developing an intelligent authentication framework focused on secure and adaptive user verification
+- Implementing continuous trust evaluation and anomaly detection concepts
+- Aiming to improve user security and authentication reliability through intelligent systems
+
+---
+
+### 🎓 Learnavia – Role-Based Learning Platform
+- Developed a platform with role-based access and activity tracking
 - Automated report generation and verification processes
 - Included dashboards and gamified activity features
 
 🔗 GitHub:  
-[Learnavia Project](https://github.com/RamyaB2006/Leanavia?utm_source=chatgpt.com)
+[ Learnavia Project ](https://github.com/RamyaB2006/Leanavia)
 
 ---
 
-### 🏗️ RoadNBrick – B2B Marketplace  
+### 🏗️ RoadNBrick – B2B Marketplace
 - Built a platform connecting contractors and suppliers
 - Implemented dashboards and inventory management features
 - Designed an efficient Request-For-Quotation workflow
 
 🔗 GitHub:  
-[RoadNBrick Project](https://github.com/RamyaB2006/roadnbrick?utm_source=chatgpt.com)
+[ RoadNBrick Project ](https://github.com/RamyaB2006/roadnbrick)
 
 ---
 
@@ -80,7 +87,7 @@ I’m a passionate engineering student interested in building secure, scalable, 
 - Class Representative
 - Language Club Coordinator
 - Department Symposium Organizer
-- Active participant in symposiums, paper presentations, and technical events
+- Active participant in symposiums, paper presentations, hackathons, and technical events
 
 ---
 
@@ -102,9 +109,9 @@ I’m a passionate engineering student interested in building secure, scalable, 
 ## 📫 Connect With Me
 - 📧 Email: **ramya2006.work@gmail.com**
 - 🔗 LinkedIn:  
-  [LinkedIn Profile](https://www.linkedin.com/in/ramya-b-1180603a4?utm_source=chatgpt.com)
+  [LinkedIn Profile](https://www.linkedin.com/in/ramya-b-1180603a4)
 - 💻 GitHub:  
-  [GitHub Profile](https://github.com/RamyaB2006?utm_source=chatgpt.com)
+  [GitHub Profile](https://github.com/RamyaB2006)
 
 ---
 
