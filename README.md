@@ -163,10 +163,8 @@ https://github.com/RamyaB2006/roadnbrick
 
 - 🤖 Artificial Intelligence
 - 🔐 Cybersecurity
-- 💻 Software Development
 - 🌐 Web Development
 - 📊 Data Analytics
-- ☁ Cloud Technologies
 - 🧠 Problem Solving
 
 ---
